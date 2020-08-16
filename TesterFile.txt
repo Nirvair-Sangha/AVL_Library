@@ -1,0 +1,10 @@
+978-0262033848 Introduction_to_Algorithms Cormen
+978-0124077263 Computer_Organization_and_Design Patterson
+978-1259676512 Discrete_Mathematics_and_its_Applications Rosen
+978-1603761840 The_Elements Gray
+978-1603763967 The_Molecules Gray
+978-0980232776 Introduction_to_Linear_Algebra_Fifth_Edition Gilbert_Strang
+978-0061964367 Pride_and_Prejudice Austen
+978-0008165093 The_Double_Clue Christie
+978-0006140450 Appointment_with_Death Christie
+978-0007119295 The_ABC_Murders Christie
